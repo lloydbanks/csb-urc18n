@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://lloydbanks.github.io/csb-urc18n/static/css/main.9cf80072.chunk.css",
+    "main.js": "https://lloydbanks.github.io/csb-urc18n/static/js/main.fc7ab254.chunk.js",
+    "main.js.map": "https://lloydbanks.github.io/csb-urc18n/static/js/main.fc7ab254.chunk.js.map",
+    "runtime-main.js": "https://lloydbanks.github.io/csb-urc18n/static/js/runtime-main.486e510b.js",
+    "runtime-main.js.map": "https://lloydbanks.github.io/csb-urc18n/static/js/runtime-main.486e510b.js.map",
+    "static/css/2.215c818c.chunk.css": "https://lloydbanks.github.io/csb-urc18n/static/css/2.215c818c.chunk.css",
+    "static/js/2.19bd0745.chunk.js": "https://lloydbanks.github.io/csb-urc18n/static/js/2.19bd0745.chunk.js",
+    "static/js/2.19bd0745.chunk.js.map": "https://lloydbanks.github.io/csb-urc18n/static/js/2.19bd0745.chunk.js.map",
+    "index.html": "https://lloydbanks.github.io/csb-urc18n/index.html",
+    "static/css/2.215c818c.chunk.css.map": "https://lloydbanks.github.io/csb-urc18n/static/css/2.215c818c.chunk.css.map",
+    "static/css/main.9cf80072.chunk.css.map": "https://lloydbanks.github.io/csb-urc18n/static/css/main.9cf80072.chunk.css.map",
+    "static/js/2.19bd0745.chunk.js.LICENSE.txt": "https://lloydbanks.github.io/csb-urc18n/static/js/2.19bd0745.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.486e510b.js",
+    "static/css/2.215c818c.chunk.css",
+    "static/js/2.19bd0745.chunk.js",
+    "static/css/main.9cf80072.chunk.css",
+    "static/js/main.fc7ab254.chunk.js"
+  ]
+}
